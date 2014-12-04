@@ -374,8 +374,8 @@ Sand mail
 
 function initializeMap() {
 
-    var lat = '-31.971436'; //Set your latitude.
-    var lon = '115.903873'; //Set your longitude.
+    var lat = '19.5045687'; //Set your latitude.
+    var lon = '-99.14665300000001'; //Set your longitude.
 
     var centerLon = lon - 0.0105;
 
